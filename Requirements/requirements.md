@@ -4,9 +4,9 @@ Primary objective  of the developed system architecture are:
 
 | # | Primary Objective |
 | --- | --- |
-| **PO-1 **| **Monitoring of the MBS performance** |
+| **PO-1**| **Monitoring of the MBS performance** |
 | **PO-2** | **Predictive analysis of the MBS performance** |
-| **PO-3** | **Data acquisition and storage **|
+| **PO-3** | **Data acquisition and storage**|
 
 # Architectural requirements
 
