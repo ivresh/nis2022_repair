@@ -8,6 +8,19 @@ Primary objective  of the developed system architecture are:
 | **PO-2** | **Predictive analysis of the MBS performance** |
 | **PO-3** | **Data acquisition and storage**|
 
+# Architecture Characteristics
+
+| # | Characteristic | Description |
+| --- | --- | --- |
+| 1 | **Automation** | Necessary for operating in real-time environment to provide uninterrupted and continuous performance of the system |
+| 2 | **Collaboration** | Providing a shared access to the data as to the companywide asset  |
+| 3 | **Fault-tolerance** | System's ability to continue operating without interruption despite the failure of one or more of its components. |
+| 4 | **Flexibility** | Supporting of multiplicity of business needs and ability to adapt for the new demands and requirements |
+| 5 | **Integration** | Providing an opportunity of engagement and interaction with other systems and processes of the company |
+| 6 | **Security** | Complying with privacy regulations and handling the risks of data leakage |
+| 7 | **Scalability** | Ability to support higner workloads without critical changes of the system's structure |
+| 8 | **Resilence** | System's ability to recover and restore its capabilities in case of outage|
+
 # Architectural requirements
 
 Architectural requirements of the developed system are listed in the table below and described in details 
