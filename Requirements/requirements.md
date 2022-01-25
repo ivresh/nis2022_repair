@@ -66,3 +66,10 @@ Provide the automatic and uninterrupted execution of the monitoring processes ac
 
 Provide the collection and storage of the data needed for monitoring processes
 
+# Stakeholders and users of the system
+- Monitoring system operator
+- Control service operator
+- Maintenance and repair technician
+- Data Engineer
+- Data Analyst
+- Security officers
