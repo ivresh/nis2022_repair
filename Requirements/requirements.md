@@ -3,7 +3,13 @@
 | # | Architectural Requirement |
 | --- | --- |
 | 1 | MBS status monitoring |
-| 2 | Show file differences that haven't been staged |
+| 2 | Operating conditions monitoring |
+| 3 | External factors monitoring |
+| 4 | Maintenance monitoring |
+| 5 | Maintenance prediction |
+| 6 | Scheduling and orchestration |
+| 7 | Data collection and storage|
+
 
 # 1. MBS status monitoring
 
@@ -24,10 +30,12 @@ Provide constant monitoring of the parameters characterizing technical condition
 - Elements misalignment
 - Presence of obstructions/cracks
 
-# 3. S
-# 4. S
-# 5. S
-6. S
-7. S
+# 3. External factors monitoring
+
+Provide comprehensive monitoring of climatic, morfometric and technogenic factors that may have an influence on MBS performance
+# 4. Maintenance monitoring
+# 5. Maintenance monitoring
+# 6. Scheduling and orchestration
+# 7. Data collection and storage
 8. S
 9. S
