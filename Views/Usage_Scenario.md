@@ -4,7 +4,7 @@ Usage scenario describes an example of how one or more people or organizations (
 
 ![image](https://user-images.githubusercontent.com/58341842/151179719-1d697dd8-43fc-4d44-bfdb-c6eda43ca7dc.png)
 
-![image](https://user-images.githubusercontent.com/58341842/151181143-acc038c3-a420-4ffb-8291-f0563e3f7ae0.png) - the selection of the parameters
+![image](https://user-images.githubusercontent.com/58341842/151181338-8349ff6e-bef1-4617-9b16-97705001f542.png) - the selection of the parameters
 
 
 ## Desciption
