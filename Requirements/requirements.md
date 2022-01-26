@@ -87,4 +87,4 @@ Provide the collection and storage of the data needed for monitoring processes
 - Data Analyst
 - Security officers
 
-[Contribution guidelines for this project](README.md)
+[Contribution guidelines for this project](nis2022_skyeng/README.md)
