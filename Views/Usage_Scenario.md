@@ -6,7 +6,11 @@ Usage scenario describes an example of how one or more people or organizations (
 
 ## Desciption
 
-The first component of the system is **authentication system**. It provides different rights for two groups of users: _tower operators and tower managers_. _Tower operators_ control the work of the towers and the telemetry work. Also they create the statistics of the selected parameters. _Tower managers_ analyze statistics, create dashboards and models, include the model prediction results and visualizations in the report.
+The first component of the system is **authentication system**. It provides different rights for two groups of users: 
+- **tower operators** 
+They control the work of the towers and the telemetry work and create the statistics of the selected parameters. 
+- **Tower managers**
+They analyze statistics, create dashboards and models, include the model prediction results and visualizations in the report.
 Logically system can be divided in 3 main blocks: 
 - **monitoring module** (where the telemetry control and management is being provided),
 - **analytical system** (where the primary analytics and visualizations arebeing done), 
