@@ -11,6 +11,7 @@ The first component of the system is **authentication system**. It provides diff
 They control the work of the towers and the telemetry work and create the statistics of the selected parameters. 
 - **Tower managers**
 They analyze statistics, create dashboards and models, include the model prediction results and visualizations in the report.
+
 Logically system can be divided in 3 main blocks: 
 - **monitoring module** (where the telemetry control and management is being provided),
 - **analytical system** (where the primary analytics and visualizations arebeing done), 
