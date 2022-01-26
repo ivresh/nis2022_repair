@@ -4,10 +4,13 @@ Usage scenario describes an example of how one or more people or organizations (
 
 ![image](https://user-images.githubusercontent.com/58341842/151179719-1d697dd8-43fc-4d44-bfdb-c6eda43ca7dc.png)
 
+![image](https://user-images.githubusercontent.com/58341842/151181143-acc038c3-a420-4ffb-8291-f0563e3f7ae0.png) - the selection of the parameters
+
+
 ## Desciption
 
 The first component of the system is **authentication system**. It provides different rights for two groups of users: 
-- **tower operators** 
+- **Tower operators** 
 They control the work of the towers and the telemetry work and create the statistics of the selected parameters. 
 - **Tower managers**
 They analyze statistics, create dashboards and models, include the model prediction results and visualizations in the report.
