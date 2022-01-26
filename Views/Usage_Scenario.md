@@ -6,7 +6,7 @@ Usage scenario describes an example of how one or more people or organizations (
 
 ![image](https://user-images.githubusercontent.com/58341842/151181511-9e09f230-915a-420e-9993-a35fc5328ce2.png)
 
-## Desciption
+## Description
 
 The first component of the system is **authentication system**. It provides different rights for two groups of users: 
 - **Tower operators** 
