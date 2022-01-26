@@ -6,8 +6,6 @@ Usage scenario describes an example of how one or more people or organizations (
 
 ![image](https://user-images.githubusercontent.com/58341842/151181511-9e09f230-915a-420e-9993-a35fc5328ce2.png)
 
-
-
 ## Desciption
 
 The first component of the system is **authentication system**. It provides different rights for two groups of users: 
@@ -23,3 +21,4 @@ Logically system can be divided in 3 main blocks:
 
 In the report part the results of predictive modelling are being interpreted. They and dashboards are added to the final report.
 
+[Back to contents](../README.md)
