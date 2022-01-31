@@ -80,9 +80,10 @@ Provide the automatic and uninterrupted execution of the monitoring processes ac
 Provide the collection and storage of the data needed for monitoring processes
 
 # Stakeholders and users of the system
-- Monitoring system operator
-- Control service operator
-- Maintenance and repair technician
+- Tower manager (Monitoring system operator)
+- Tower operator (Control service operator)
+- Tower foreman (Maintenance and repair technician)
+- Network Engineering
 - Data Engineer
 - Data Analyst
 - Security officers
