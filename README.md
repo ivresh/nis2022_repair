@@ -1,3 +1,5 @@
+The following project is dedicated to the description of MBS service information system architecture.
+
 # Contents
 
 - [Goals and requirements](Requirements/requirements.md)
