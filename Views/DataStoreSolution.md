@@ -2,7 +2,7 @@
 
 1. _To store and process CCTV recordings_, we suggest using **Azure Data Factory**, a fully managed cloud-based ETL service with data integration that automates data movement and transformation by collecting raw information and transforming it into ready-to-use information using special services . 
 
-        **Azure Blob** storage provides scalable and cost-effective object storage in the cloud, which provides the ability to store and access unstructured data for the most demanding workloads. 
+       **Azure Blob** storage provides scalable and cost-effective object storage in the cloud, which provides the ability to store and access unstructured data for the most demanding workloads. 
 
   **Azure Analysis Services** is a fully managed platform as a service (PaaS) that provides enterprise-grade data models in the cloud. With advanced combining and modeling features, you can combine data, define metrics, and secure data in one trusted semantic tabular data model. The Data Model helps you perform ad hoc data analysis faster with tools like Power BI. 
 
